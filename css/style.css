@@ -37,7 +37,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: #000
+    color: #999
 }
 
 .no-padding {
@@ -235,7 +235,7 @@ h5 {
     top: 0;
     height: 100%;
     width: 50px;
-    background-color: #000;
+    background-color: #fff;
 }
 
 .box-primary-nav-trigger .box-menu-text {
@@ -439,7 +439,7 @@ h5 {
 }
 
 b i:last-child {
-    color: #000 !important;
+    color: #ffbf00 !important;
 }
 
 .box-intro h5 {
@@ -576,8 +576,8 @@ b i:last-child {
 .box-headline.rotate-2 i {
     -webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;
-    -webkit-transform: translateZ(-20px) rotateX(90deg);
-    transform: translateZ(-20px) rotateX(90deg);
+    -webkit-transform: translateZ(-20px) rotateX(180deg);
+    transform: translateZ(-20px) rotateX(180deg);
     opacity: 0;
 }
 
@@ -852,7 +852,7 @@ footer img {
     font-size: 20px;
     right: 10px;
     text-align: center;
-    color: #000;
+    color: #fff;
     background: rgba(255, 191, 0, 0.8);
     visibility: hidden;
     opacity: 0;
